@@ -1,12 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBushCUf16bA4JKjKuoZx9j-XnfJ2itQqU",
-    authDomain: "pharmatory-49da9.firebaseapp.com",
-    databaseURL: "https://pharmatory-49da9-default-rtdb.firebaseio.com",
-    projectId: "pharmatory-49da9",
-    storageBucket: "pharmatory-49da9.appspot.com",
-    messagingSenderId: "313792425018",
-    appId: "1:313792425018:web:3fa79b87236254ce349903",
-    measurementId: "G-12P50WHSLB"
+    
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
